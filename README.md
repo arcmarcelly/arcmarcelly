@@ -1,4 +1,4 @@
-Olá, me chamo Marcelly!<br>Técnica em Eletrônica e Automação Industrial<br>Estudante de Análise e Desenvolvimento de Sistemas.
+Olá, me chamo Marcelly!<br>Técnica em Eletrônica e Automação Industrial<br>Estudante de Análise e Desenvolvimento de Sistemas<br>Residente em Análise de Dados e IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcelly-arcanjo) 
 
